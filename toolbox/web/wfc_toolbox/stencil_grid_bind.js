@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+// Original project code: no use or redistribution without written permission.
+// See the repository LICENSE for scope, exceptions and third-party rights.
 /* Bind 5×5 stencil board: click toggles coarse(1)/fine(0), sync to #wfc_stencil_signal */
 async () => {
   const SIZE = 5;

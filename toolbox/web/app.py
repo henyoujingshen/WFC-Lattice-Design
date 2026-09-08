@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+# Original project code: no use or redistribution without written permission.
+# See the repository LICENSE for scope, exceptions and third-party rights.
 """
 Gradio：长方形网格 → HTML 画布鼠标拖出外接矩形 + 旋转角（类矢量椭圆工具）→
 全局 α / S_mul → 5×5 图案 stencil + WFC 坍缩 → 大图展示构型（无 CT 试件几何）。

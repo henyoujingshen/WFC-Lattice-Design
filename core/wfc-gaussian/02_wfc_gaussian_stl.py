@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+# Original project code: no use or redistribution without written permission.
+# See the repository LICENSE for scope, exceptions and third-party rights.
 # new_gaussian_field_merged.py
 import numpy as np
 import random

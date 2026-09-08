@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+# Original project code: no use or redistribution without written permission.
+# See the repository LICENSE for scope, exceptions and third-party rights.
 """Gaussian splats, field maps, and CT-style WFC prototype/rules."""
 
 from __future__ import annotations

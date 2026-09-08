@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+// Original project code: no use or redistribution without written permission.
+// See the repository LICENSE for scope, exceptions and third-party rights.
 /* Gradio wraps this as: await (SOURCE)(...__fn_args) — SOURCE must be an async callable, NOT an IIFE. */
 async () => {
   function attachWfcCanvas(canvas) {

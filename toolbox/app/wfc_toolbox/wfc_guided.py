@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+# Original project code: no use or redistribution without written permission.
+# See the repository LICENSE for scope, exceptions and third-party rights.
 """
 WFC with: (1) min-entropy cell, (2) tie-break by max candidate preference;
 (3) field-only weights; (4) pattern head tiles gated by chaos map.

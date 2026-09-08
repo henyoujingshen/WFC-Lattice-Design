@@ -1,0 +1,39 @@
+Copyright (c) 2026 唐呼博成 (Tang Hubocheng)
+All rights reserved. 保留所有权利。
+
+专有代码与材料声明 / PROPRIETARY MATERIALS — NO LICENSE GRANTED
+
+本声明仅适用于本项目中权利人有权控制的原创代码、文档及其他原创材料。
+本仓库未按开源许可证发布。除适用法律不得排除的权利、权利人另行签署的
+书面授权，以及托管平台有效服务条款所必需的有限权限外，未向任何人授予
+使用、运行、调用、集成、复制、转载、镜像、修改、改编、再分发、再许可、
+出售或其他商业利用的许可。学术、教学和非商业用途也须事先取得书面授权。
+署名、注明来源、引用论文或提供原仓库链接均不能代替书面授权。
+未经许可不得删除或篡改适用的版权、权属及授权声明。
+
+获得私有仓库访问权限，仅表示获准在授权范围内访问审阅，不当然取得上述
+其他许可。需要运行、调用、复用或分发时，应另行取得权利人的书面许可。
+
+第三方库、运行时、第三方贡献及已按其他有效许可证提供的材料，仍分别适用
+其原有许可证和权属声明。本声明不撤销既有许可，也不限制第三方已授予的权利。
+本声明不主张对不受著作权保护的思想、方法或算法概念享有排他权。
+
+These terms apply only to original materials that the rights holder is entitled
+ to control. This is not an open-source license. Except for non-waivable rights
+under applicable law, separate written permission, or limited permissions
+required by the hosting platform's applicable terms, no permission is granted
+to use, execute, invoke, integrate, copy, republish, mirror, modify, adapt,
+distribute, sublicense, sell, or commercially exploit these materials.
+Academic, educational and non-commercial use also requires prior written
+permission. Attribution, citation and links do not substitute for permission.
+Do not remove or alter applicable copyright, ownership or permission notices
+without authorization. Private repository access permits review within the
+scope of that access only; it does not by itself grant other usage rights.
+
+Third-party components and materials under other valid licenses remain governed
+by their respective terms. This notice does not revoke existing licenses,
+override third-party rights, or claim exclusive rights in unprotected ideas,
+methods or algorithmic concepts.
+
+To request permission, contact the repository owner through a separately agreed
+written channel. No permission is implied by silence or repository availability.

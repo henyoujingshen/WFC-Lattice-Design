@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Tang Hubocheng. All rights reserved.
+# Original project code: no use or redistribution without written permission.
+# See the repository LICENSE for scope, exceptions and third-party rights.
 """Self-contained HTML+JS canvas: drag axis-aligned box in [0,1]^2, emit corners to Gradio via hidden Textbox."""
 
 from __future__ import annotations
