@@ -1,0 +1,348 @@
+{
+  "archive_version": "v2026.09.08",
+  "note": "Source files preserved byte-for-byte. Archive version is not an original software version.",
+  "files": [
+    {
+      "path": "core/wfc-rl/02 消融实验代码/01_two_head_policy_ablation.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/02 消融实验代码/01_two_head_policy_ablation.py",
+      "sha256": "8000a092ed99fdaefd33a8c9d60c2f260dfce322454ddc14c1776991e17df314",
+      "bytes": 36342
+    },
+    {
+      "path": "core/wfc-rl/02 消融实验代码/02_flat_action_space_ablation.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/02 消融实验代码/02_flat_action_space_ablation.py",
+      "sha256": "1465439b99f9d1d0b5a061dd7ba8f72dc19a7b83148c5cb2bb1599519cccdb9c",
+      "bytes": 32741
+    },
+    {
+      "path": "core/wfc-rl/02 消融实验代码/03_conditional_input_ablation.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/02 消融实验代码/03_conditional_input_ablation.py",
+      "sha256": "1d605ad9a3b371ec590ca4a4f4deeeaaea1f6d5c8c76c681d66c2afbeed29a60",
+      "bytes": 33955
+    },
+    {
+      "path": "core/wfc-rl/02 消融实验代码/04_random_search_baseline.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/02 消融实验代码/04_random_search_baseline.py",
+      "sha256": "b26958f05be990d762ac70db62f7fc25d4c671b4c54c801b61ebe5dfbb829cd2",
+      "bytes": 28513
+    },
+    {
+      "path": "core/wfc-rl/02 消融实验代码/05_ablation_result_plot.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/02 消融实验代码/05_ablation_result_plot.py",
+      "sha256": "cff0f727d283544a17b3d37449933bec3ecc56c98c8610401c153d4e510c0d09",
+      "bytes": 89748
+    },
+    {
+      "path": "core/wfc-rl/02 消融实验代码/README.md",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/02 消融实验代码/README.md",
+      "sha256": "95a6324bd44b25235ac0bad441893daabb0f960d1f055eca25ebffab7668d7bf",
+      "bytes": 670
+    },
+    {
+      "path": "core/wfc-rl/global_stiffness.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/global_stiffness.py",
+      "sha256": "2e46ef77fccbc73ad1c48e3b5cf76ace3a73f68d78139acbdd194fe86ce2c64d",
+      "bytes": 4636
+    },
+    {
+      "path": "core/wfc-rl/GPU_hope.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/GPU_hope.py",
+      "sha256": "a8848a4d7e9357b396450c913f7a2206742e9b99f8077c7e12e98ae1a5053a07",
+      "bytes": 28261
+    },
+    {
+      "path": "core/wfc-rl/Homoge.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/Homoge.py",
+      "sha256": "6f80aa76adbf98dced361f14dbd33bfe8e7cc3c452317cf78bf5b68389882b9e",
+      "bytes": 18019
+    },
+    {
+      "path": "core/wfc-rl/Position_constrain.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/Position_constrain.py",
+      "sha256": "6a03902a51024999df7997f454541ea9a92c12fdbc9a673f29bef95de09a0648",
+      "bytes": 5261
+    },
+    {
+      "path": "core/wfc-rl/README.md",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/README.md",
+      "sha256": "c559bfb95e2998f8d36ab8678c465ffd75f890ed3a5246dd353f05863f16efa2",
+      "bytes": 603
+    },
+    {
+      "path": "core/wfc-rl/visl.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/visl.py",
+      "sha256": "34fc489afdda56368110059ccce5662c138148be68428b034526ae43e1e00eb7",
+      "bytes": 21425
+    },
+    {
+      "path": "core/wfc-rl/visualize_elastic_module.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/visualize_elastic_module.py",
+      "sha256": "e738d1e642e179ea76e20fe9de8852405843aaccc8b9a211407afc1c161c586b",
+      "bytes": 9086
+    },
+    {
+      "path": "core/wfc-rl/WFC_library_undirected.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/01 WFC-RL核心代码/WFC_library_undirected.py",
+      "sha256": "9ab1668383833de901410fd2ae7acb683c0097c8738048faad60d7edbf11b6a7",
+      "bytes": 24846
+    },
+    {
+      "path": "core/wfc-gaussian/01_gaussian_field_from_image.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/01_gaussian_field_from_image.py",
+      "sha256": "9adef6eb45a604b43df7e51388180b335f0d258049f74b9f8c8377361ad2341d",
+      "bytes": 17759
+    },
+    {
+      "path": "core/wfc-gaussian/02_wfc_gaussian_stl.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/02_wfc_gaussian_stl.py",
+      "sha256": "40c5a10cbabcddf336a2517fec6447724455bf893a6f2dcf09ea975b4c22297f",
+      "bytes": 15044
+    },
+    {
+      "path": "core/wfc-gaussian/03_stiffness_gradient_stl.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/03_stiffness_gradient_stl.py",
+      "sha256": "4f71eb686d8d415054b8b5db20a032c87a3b5d87d118ff5c896379fbb083326c",
+      "bytes": 24452
+    },
+    {
+      "path": "core/wfc-gaussian/image.png",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/image.png",
+      "sha256": "9314fb25b2576f14f1eb5ee6066da70e461687430732e9bb9c49c5b961f9f9ae",
+      "bytes": 4667
+    },
+    {
+      "path": "core/wfc-gaussian/image1.png",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/image1.png",
+      "sha256": "d594bbe4a7226e20e41e7c773ffeebeb444e6bf4e2f2b2c01f2fb69c41126e1d",
+      "bytes": 9435
+    },
+    {
+      "path": "core/wfc-gaussian/README.md",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/README.md",
+      "sha256": "2aec04e97413b01de9b880bb94c65e55b201419172e9404c7e36c5240c485550",
+      "bytes": 806
+    },
+    {
+      "path": "core/wfc-gaussian/saveTheRabbit.json",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/saveTheRabbit.json",
+      "sha256": "550c8120512454cf2ad614c99326e17f7cc3d9efafe721dfc93e2e7b633823fa",
+      "bytes": 2712
+    },
+    {
+      "path": "core/wfc-gaussian/stiffness_experiments/2_1_interlocking_gradient.json",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/stiffness_experiments/2_1_interlocking_gradient.json",
+      "sha256": "f8db5bb44f6edf7839bcc87af172dcba5e18580c70b2e74fc7bbe48d34bb30b2",
+      "bytes": 1384
+    },
+    {
+      "path": "core/wfc-gaussian/visualize_new_library.py",
+      "source": "01 WFC-RL与WFC-Gaussian核心代码/02 WFC-Gaussian核心代码/visualize_new_library.py",
+      "sha256": "30e2f9e2e667e69c169023c7944c85249d2df4b9c412b627107ddd57a2416b84",
+      "bytes": 11367
+    },
+    {
+      "path": "toolbox/app/app.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/app.py",
+      "sha256": "5e43b9fbf9994783deb90c4400641172a738ce3b4ca96ae97d53bc3608ac0852",
+      "bytes": 34495
+    },
+    {
+      "path": "toolbox/app/install_deps.bat",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/install_deps.bat",
+      "sha256": "085cc439480acf40b390a773503e74a622aadc253e44a3728aff1761bcf7a62f",
+      "bytes": 332
+    },
+    {
+      "path": "toolbox/app/README.md",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/README.md",
+      "sha256": "1fd98903274e3ba41362d63e4c20974c21ba0e41be0ddefa8fbf54ddf36c9c7c",
+      "bytes": 309
+    },
+    {
+      "path": "toolbox/app/requirements.txt",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/requirements.txt",
+      "sha256": "6086e05b4498cc49f27c1b5f2bbc850913dbb2e7fd3af0fcfed815fd4a67428f",
+      "bytes": 140
+    },
+    {
+      "path": "toolbox/app/run.bat",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/run.bat",
+      "sha256": "8efcbc08d98b75437336e44f1c99e79135cf8e01c3c8fe669935cf4a77c2771e",
+      "bytes": 385
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/__init__.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/__init__.py",
+      "sha256": "caf790e4e54b3d35840d2f645a4636fdd9b358636cc9e6fb0a5087fb5508d92c",
+      "bytes": 441
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/ct_core.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/ct_core.py",
+      "sha256": "904ad02f2b272b994bfe9b5197c96838b60b431d89fb883965ce50a3be3122ce",
+      "bytes": 9554
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/pattern_stencil.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/pattern_stencil.py",
+      "sha256": "708deaaf23888e9141ee48ce1d43173adf5bfe9d7586e80768a0e2a18ec90e04",
+      "bytes": 7709
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/pattern_utils.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/pattern_utils.py",
+      "sha256": "11ed447c6bb540a25c41ea9829db2b5f2e9185ddcb37d715a5978f6145a69314",
+      "bytes": 643
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/splat_canvas_bind.js",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/splat_canvas_bind.js",
+      "sha256": "7f9c7e06af953d63526f6e3f0d0605ccc5261b12ac7ac5448690f39ed3e33c22",
+      "bytes": 6888
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/splat_canvas_html.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/splat_canvas_html.py",
+      "sha256": "ec9275cfb5b0665a4d92b89d1bb4a823bcacce35110f79927d4b56ab6c661f7e",
+      "bytes": 1793
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/stencil_grid_bind.js",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/stencil_grid_bind.js",
+      "sha256": "503f2ca4b7355c2e5967dbe3d5ccab627deaa90af6d1d0159b4b979effc885be",
+      "bytes": 3224
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/stencil_grid_html.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/stencil_grid_html.py",
+      "sha256": "01a91499887a497934cd852f5967c1fe63113dc032a389a8a91e7e9883215346",
+      "bytes": 3381
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/stl_export.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/stl_export.py",
+      "sha256": "24970c0b1661108f3750095a4dee217d8ed47f088785f0a2fe6df217c4acf792",
+      "bytes": 4483
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/unit_cells.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/unit_cells.py",
+      "sha256": "7864d6815e63aaf1c6efb97614a4a5b38a306fbb208f38eaf7d73d7009cb230d",
+      "bytes": 7501
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/viz.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/viz.py",
+      "sha256": "1de36b148504b8c76ae834971ddde1f412847ba5ab3bc028f860e51d2d384518",
+      "bytes": 17277
+    },
+    {
+      "path": "toolbox/app/wfc_toolbox/wfc_guided.py",
+      "source": "02 WFC-Gaussian点阵设计工具箱_APP版本/02 源代码/wfc_toolbox/wfc_guided.py",
+      "sha256": "887b4098beb589b18ff2948b7e4fe66206805683c0e1bf0956b04b9e0d5bed6d",
+      "bytes": 14196
+    },
+    {
+      "path": "toolbox/web/app.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/app.py",
+      "sha256": "cb99ce48d93586c4e07cb69bb76c04de9485e7bc94697cf1a4c340555611bb6b",
+      "bytes": 35904
+    },
+    {
+      "path": "toolbox/web/install_deps.bat",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/install_deps.bat",
+      "sha256": "085cc439480acf40b390a773503e74a622aadc253e44a3728aff1761bcf7a62f",
+      "bytes": 332
+    },
+    {
+      "path": "toolbox/web/README.md",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/README.md",
+      "sha256": "cfda388dd63002399bc572da863d87fb3c5f453774c5934e97956ef5dba48998",
+      "bytes": 392
+    },
+    {
+      "path": "toolbox/web/requirements.txt",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/requirements.txt",
+      "sha256": "6086e05b4498cc49f27c1b5f2bbc850913dbb2e7fd3af0fcfed815fd4a67428f",
+      "bytes": 140
+    },
+    {
+      "path": "toolbox/web/run.bat",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/run.bat",
+      "sha256": "8efcbc08d98b75437336e44f1c99e79135cf8e01c3c8fe669935cf4a77c2771e",
+      "bytes": 385
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/__init__.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/__init__.py",
+      "sha256": "caf790e4e54b3d35840d2f645a4636fdd9b358636cc9e6fb0a5087fb5508d92c",
+      "bytes": 441
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/ct_core.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/ct_core.py",
+      "sha256": "904ad02f2b272b994bfe9b5197c96838b60b431d89fb883965ce50a3be3122ce",
+      "bytes": 9554
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/pattern_stencil.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/pattern_stencil.py",
+      "sha256": "708deaaf23888e9141ee48ce1d43173adf5bfe9d7586e80768a0e2a18ec90e04",
+      "bytes": 7709
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/pattern_utils.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/pattern_utils.py",
+      "sha256": "11ed447c6bb540a25c41ea9829db2b5f2e9185ddcb37d715a5978f6145a69314",
+      "bytes": 643
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/splat_canvas_bind.js",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/splat_canvas_bind.js",
+      "sha256": "7f9c7e06af953d63526f6e3f0d0605ccc5261b12ac7ac5448690f39ed3e33c22",
+      "bytes": 6888
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/splat_canvas_html.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/splat_canvas_html.py",
+      "sha256": "ec9275cfb5b0665a4d92b89d1bb4a823bcacce35110f79927d4b56ab6c661f7e",
+      "bytes": 1793
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/stencil_grid_bind.js",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/stencil_grid_bind.js",
+      "sha256": "503f2ca4b7355c2e5967dbe3d5ccab627deaa90af6d1d0159b4b979effc885be",
+      "bytes": 3224
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/stencil_grid_html.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/stencil_grid_html.py",
+      "sha256": "01a91499887a497934cd852f5967c1fe63113dc032a389a8a91e7e9883215346",
+      "bytes": 3381
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/stl_export.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/stl_export.py",
+      "sha256": "24970c0b1661108f3750095a4dee217d8ed47f088785f0a2fe6df217c4acf792",
+      "bytes": 4483
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/unit_cells.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/unit_cells.py",
+      "sha256": "7864d6815e63aaf1c6efb97614a4a5b38a306fbb208f38eaf7d73d7009cb230d",
+      "bytes": 7501
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/viz.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/viz.py",
+      "sha256": "1de36b148504b8c76ae834971ddde1f412847ba5ab3bc028f860e51d2d384518",
+      "bytes": 17277
+    },
+    {
+      "path": "toolbox/web/wfc_toolbox/wfc_guided.py",
+      "source": "03 WFC-Gaussian点阵设计工具箱_网页可视化版本/01 网页可视化源码/wfc_toolbox/wfc_guided.py",
+      "sha256": "887b4098beb589b18ff2948b7e4fe66206805683c0e1bf0956b04b9e0d5bed6d",
+      "bytes": 14196
+    }
+  ]
+}

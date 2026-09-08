@@ -1,0 +1,8 @@
+numpy>=1.22,<2
+matplotlib>=3.7
+pillow>=9.0
+huggingface_hub>=0.19,<0.20
+gradio>=4.36,<5
+shapely>=2.0
+trimesh>=4.0
+mapbox-earcut>=1.0
